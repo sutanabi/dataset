@@ -1,4 +1,4 @@
-Product Category;Total Sales;Date;Price per Unit;Units Sold
+Product Category;TotalSales;Date;Price;NumberSold
 Apparel_31/12;122500;31/12/2022;55;125
 Apparel_26/11;2576;26/11/2022;45;225
 Apparel_25/10;2961;25/10/2022;55;125
